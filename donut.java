@@ -1,4 +1,4 @@
-public class DonutAnimation {
+public class donut {
     public static void main(String[] args) throws InterruptedException {
         double A = 0, B = 0;
         int width = 80;
